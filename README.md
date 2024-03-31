@@ -1,16 +1,8 @@
 # temp_convertor
 
 A new Flutter project.
+![splash](https://github.com/ankit595/Temperature-Converter-Flutter-UI/assets/56728798/4f120e7a-bd5c-4b1a-b0cc-9546c6866864)
 
-## Getting Started
+![home](https://github.com/ankit595/Temperature-Converter-Flutter-UI/assets/56728798/3eb8e65a-eac8-46f2-8c16-9e255fc93542)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![work](https://github.com/ankit595/Temperature-Converter-Flutter-UI/assets/56728798/f523e0c7-a309-4ac7-bca5-e06e1a62ea2d)
